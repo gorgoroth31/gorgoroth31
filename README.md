@@ -22,7 +22,6 @@ I paved my way into software development a few years back, stating roughly 2021,
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) 
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue-dot-js&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-4FC08D?style=flat&logo=blazor&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-4FC08D?style=flat&logo=blazor&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-4FC08D?style=flat&logo=dotnet&logoColor=white)
 
 ### Databases
