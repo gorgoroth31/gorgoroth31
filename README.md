@@ -27,10 +27,6 @@ I paved my way into software development a few years back, stating roughly 2021,
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
 
-
-## 📊 Github Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=gorgoroth31&show_icons=true&locale=en&layout=compact&langs_count=8&hide=tex,html,css,swift)](https://github.com/gorgoroth31)
-
 <small>(Most used languages exclude some non-programming "languages" like TeX, HTML, CSS, etc.)</small>
 
 On my [GitHub](https://github.com/gorgoroth31) you can look through various projects i've done over the time
