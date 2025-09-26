@@ -29,7 +29,7 @@ I paved my way into software development a few years back, stating roughly 2021,
 
 
 ## 📊 Github Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=gorgoroth31&show_icons=true&locale=en&layout=compact&langs_count=8&hide=tex,html,css,swift)](https://github.com/wieerwill)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=gorgoroth31&show_icons=true&locale=en&layout=compact&langs_count=8&hide=tex,html,css,swift)](https://github.com/gorgoroth31)
 
 <small>(Most used languages exclude some non-programming "languages" like TeX, HTML, CSS, etc.)</small>
 
