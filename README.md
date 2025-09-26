@@ -5,6 +5,7 @@
 
 As my name probably hints, i am a passionate Lord of the Rings fan alongside my passion for code and software and i handle them as Sam tried to protect Frodo from Gollum (sure, he might have failed, but in the long run, he stuck to what he signed up for and reached the goal - no mather the circumstances)
 <br/>
+<br/>
 I paved my way into software development a few years back, stating roughly 2021, when i asked a friend how i could get into IT when he replied: "Just learn programming". So i started to learn programming and 2 years later, i got very interested and started my apprenticeship at AraCom IT Services GmbH as Software Developer, where i learned everything around developing and deploying web applications. As far as i am concerned, i have so much more to explore in Software Development and i am eager to learn something new everyday.
 <br/>
 
