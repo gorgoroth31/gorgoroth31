@@ -15,7 +15,7 @@ I paved my way into software development a few years back, stating roughly 2021,
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Python](https://img.shields.io/badge/go-3776AB?style=flat&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Go-3776AB?style=flat&logo=go&logoColor=white)
 
 ### Frameworks & Libraries
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) 
